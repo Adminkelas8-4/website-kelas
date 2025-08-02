@@ -1,0 +1,12 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-color); /* Warna fallback */
+    color: var(--text-color);
+    line-height: 1.6;
+    background-image: url('http://googleusercontent.com/file_content/2'); /* Ganti dengan URL gambar yang diinginkan */
+    background-size: cover; /* Membuat gambar menutupi seluruh latar belakang */
+    background-repeat: no-repeat; /* Mencegah gambar diulang */
+    background-attachment: fixed; /* Membuat latar belakang tetap saat di-scroll */
+}
